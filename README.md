@@ -3,7 +3,6 @@ SDP-I (CSE-100)
 This Project is Done by 
 
 | Mahamudul Hasan.
-
 | Abdur Rahman Sifat.                                   
 | Sajidul Islam Samin.                   
 | Shahriar Chowdhury.                    
